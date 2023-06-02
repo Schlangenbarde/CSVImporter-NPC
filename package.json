@@ -1,14 +1,21 @@
 {
-	"name" 			: "com.schlangenbarde.csvimporter-npc",
-	"version"		: "1.0.0",
-	"displayName" 	: "CSVImporter-Npc",
-	"discription"	: "",
-	"unity"			: "2021.3",
-	"author"		:
+	"name": "com.schlangenbarde.csvimporter-npc",
+	"version": "1.0.0",
+	"displayName": "CSVImporter-Npc",
+	"discription": "",
+	"unity": "2021.3",
+	"author": {
+		"name": "Leon Schramm",
+		"email": "schramm-leon@gmx.de",
+		"url": "https://github.com/Schlangenbarde"
+	},
+
+	"samples": [
 		{
-			"name"	: "Leon Schramm",
-			"email"	: "schramm-leon@gmx.de",
-			"url"	: "https://github.com/Schlangenbarde"
+			"displayName": "NPC Main Sample",
+			"description": "Shows a Example Scene of the Three NPCs.",
+			"path": "Samples/Scenes"
 		}
+	]
 }
 	

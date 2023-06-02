@@ -1,0 +1,14 @@
+{
+	"name" 			: "com.schlangenbarde.csvimporter",
+	"version"		: "1.0.0",
+	"displayName" 	: "CSVImporter",
+	"discription"	: "Test",
+	"unity"			: "2021.3",
+	"author"		:
+		{
+			"name"	: "Leon Schramm",
+			"email"	: "schramm-leon@gmx.de",
+			"url"	: "https://github.com/Schlangenbarde"
+		}
+}
+	

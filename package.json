@@ -1,8 +1,8 @@
 {
-	"name" 			: "com.schlangenbarde.csvimporter",
+	"name" 			: "com.schlangenbarde.csvimporter-npc",
 	"version"		: "1.0.0",
-	"displayName" 	: "CSVImporter",
-	"discription"	: "Test",
+	"displayName" 	: "CSVImporter-Npc",
+	"discription"	: "",
 	"unity"			: "2021.3",
 	"author"		:
 		{
